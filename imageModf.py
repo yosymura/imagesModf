@@ -1,8 +1,8 @@
 import os
 import shutil
 
-from_dir = "D:\\lofasz"
-to_dir = "D:\\lofasz_dist"
+from_dir = "D:\\..."
+to_dir = "D:\\..."
 
 pic_ext=['.png','.jpeg','.jpg']
 audio_ext=[]

@@ -32,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.lofasz">
+  <component name="RunManager" selected="Python.imageModf">
     <configuration name="imageModf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="imagesModf" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lofasz" />
         <item itemvalue="Python.imageModf" />
+        <item itemvalue="Python.lofasz" />
       </list>
     </recent_temporary>
   </component>
@@ -100,12 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1582813816858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="copyFunc 1.0">
+      <created>1582839239372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582839239372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="copyFunc 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="copyFunc 1.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1512" y="358" key="#Notifications" timestamp="1582813773659">
@@ -116,26 +124,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1374" y="355" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582813825139" />
-    <state x="1574" y="296" key="CommitChangelistDialog2" timestamp="1582813816205">
+    <state x="1535" y="328" key="CommitChangelistDialog2" timestamp="1582839238835">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1574" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582813816205" />
-    <state width="1233" height="397" key="GridCell.Tab.0.bottom" timestamp="1582839197804">
+    <state x="1535" y="328" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582839238835" />
+    <state width="1233" height="397" key="GridCell.Tab.0.bottom" timestamp="1582840130441">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582839197804" />
-    <state width="1233" height="397" key="GridCell.Tab.0.center" timestamp="1582839197804">
+    <state width="1233" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582840130441" />
+    <state width="1233" height="397" key="GridCell.Tab.0.center" timestamp="1582840130441">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582839197804" />
-    <state width="1233" height="397" key="GridCell.Tab.0.left" timestamp="1582839197804">
+    <state width="1233" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582840130441" />
+    <state width="1233" height="397" key="GridCell.Tab.0.left" timestamp="1582840130441">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582839197804" />
-    <state width="1233" height="397" key="GridCell.Tab.0.right" timestamp="1582839197804">
+    <state width="1233" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582840130441" />
+    <state width="1233" height="397" key="GridCell.Tab.0.right" timestamp="1582840130441">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582839197804" />
+    <state width="1233" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582840130441" />
     <state x="1729" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582813756045">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
