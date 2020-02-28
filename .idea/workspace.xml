@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d9f9c0-3d9f-46c4-98ab-271f37a0efc4" name="Default Changelist" comment="copyFunc 1.0">
+    <list default="true" id="09d9f9c0-3d9f-46c4-98ab-271f37a0efc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imageModf.py" beforeDir="false" afterPath="$PROJECT_DIR$/imageModf.py" afterDir="false" />
     </list>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582845658302</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="copyFunc 1.0">
+      <created>1582846819641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582846819641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,26 +145,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1374" y="355" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582813825139" />
-    <state x="1535" y="328" key="CommitChangelistDialog2" timestamp="1582846728095">
+    <state x="1634" y="527" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582896646481">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1535" y="328" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582846728095" />
-    <state width="1233" height="241" key="GridCell.Tab.0.bottom" timestamp="1582845644096">
+    <state x="1634" y="527" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1582896646481" />
+    <state x="1535" y="328" key="CommitChangelistDialog2" timestamp="1582898806624">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="241" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582845644096" />
-    <state width="1233" height="241" key="GridCell.Tab.0.center" timestamp="1582845644096">
+    <state x="1535" y="328" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582898806624" />
+    <state width="1235" height="241" key="GridCell.Tab.0.bottom" timestamp="1582847900567">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="241" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582845644096" />
-    <state width="1233" height="241" key="GridCell.Tab.0.left" timestamp="1582845644096">
+    <state width="1235" height="241" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582847900567" />
+    <state width="1235" height="241" key="GridCell.Tab.0.center" timestamp="1582847900567">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="241" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582845644096" />
-    <state width="1233" height="241" key="GridCell.Tab.0.right" timestamp="1582845644096">
+    <state width="1235" height="241" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582847900567" />
+    <state width="1235" height="241" key="GridCell.Tab.0.left" timestamp="1582847900567">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1233" height="241" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582845644096" />
+    <state width="1235" height="241" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582847900567" />
+    <state width="1235" height="241" key="GridCell.Tab.0.right" timestamp="1582847900567">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="241" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582847900567" />
     <state x="1729" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582813756045">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
